@@ -6,6 +6,6 @@ fall_down_detection
 
 
 # 效果：
-![image](https://github.com/CHB-learner/fall_down_detection/blob/master/包名/图片名)
+![image](https://github.com/CHB-learner/fall_down_detection/blob/main/%E6%95%88%E6%9E%9C.jpg)
 
 https://www.bilibili.com/video/BV12M411A7vH/?spm_id_from=333.999.0.0&vd_source=f85eb6ada6324b9c99a2057597d06c6b
